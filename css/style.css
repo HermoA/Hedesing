@@ -2,7 +2,7 @@ body
 {
     color: darkslategray;
     text-align: center;
-    font-family: "Courier";
+    font-family: "Arial";
     font-size: 10px;
     margin: 0;
     padding: 0;
@@ -18,4 +18,19 @@ body
 #container h1
 {  
     font-size: 20px;
+}
+#cabecera #tagline
+{   
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 1em;
+}
+#cabecera
+{   
+    width: 100%;
+    background: rgb(13, 62, 136);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }

@@ -2,20 +2,20 @@ body
 {
     color: darkslategray;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
     font-size: 10px;
     margin: 0;
     padding: 0;
 }
-container
+#container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 5px solid rgb(18, 19, 19);
+    border: 1px solid rgb(18, 19, 19);
     margin: 0 auto; 
 }
-container h1
+#container h1
 {   
     font-size: 30px;
 }

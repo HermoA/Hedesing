@@ -3,19 +3,34 @@ body
     color: darkslategray;
     text-align: center;
     font-family: "Arial";
-    font-size: 10px;
+    font-size: 15px;
     margin: 0;
     padding: 0;
 }
-container
+#Container 
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 5px solid rgb(18, 19, 19);
+    border: 1px solid darkslategray;
     margin: 0 auto; 
 }
-container h1
+#Container h1
 {   
-    font-size: 30px;
+    font-size: 20px;
+}
+#cabecera #tagline
+{   
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#cabecera
+{   
+    width: 100%;
+    background: rgb(13, 62, 136);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }

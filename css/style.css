@@ -16,26 +16,6 @@ body
     margin: 0 auto; 
 }
 #container h1
-{   
-<<<<<<< HEAD
-    font-size: 30px;
-}
-=======
+{  
     font-size: 20px;
 }
-#cabecera #tagline
-{   
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-#cabecera
-{   
-    width: 90%;
-    background: rgb(13, 62, 136);
-    color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
-}
->>>>>>> cabecera
